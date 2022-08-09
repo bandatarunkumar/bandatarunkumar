@@ -42,7 +42,7 @@ Currently I am working with <b>VMware</b> in Blockchain technology where I am co
         <img alt="github" src="https://img.shields.io/github/followers/bandatarunkumar?label=GitHub&amp;style=social" />
     </a><a href="https://www.linkedin.com/in/bandatarunkumar/" target="_blank">
         <img alt="linkedin" src="https://img.shields.io/badge/Linkedin-grey?logo=linkedin&amp;style=social" />
-    </a><a href="https://www.linkedin.com/in/akash-goyal-2309/" target="_blank">
+    </a><a href="https://tarunkumarbanda.blogspot.com/" target="_blank">
         <img alt="linkedin" src="https://img.shields.io/badge/myresume-blog-brightgreen" />
 </p>
   
