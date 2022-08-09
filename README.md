@@ -1,4 +1,4 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Akash Goyal!
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Tarunkumar Banda!
 
 <p align="center">Welcome to my page! </br> I'm Tarunkumar Banda, a Software Developer from <b>Bangalore, India</b>.</p>
 
@@ -9,7 +9,7 @@ I’m passionate about building tools to help people save time and do more with 
 I am proficient in #softwaredevelopment, #dsa, #linux, #cplusplus, #systemdesign, #distributedsystems and #blockchaintechnology and much more. 
 C, C++, System Design , Data Structures and Algorithms are parts of my expertise.
 
-Currently I am working with <b>VMware</b> in Blockchain technology where I am contributing to the design and development of the backend system for deploying Distributed Byzantine Fault Tolerant components on VMware Blockchain. Prior to VMware, I was a part of McAfee where I was contributing in rail project.
+Currently I am working with <b>VMware</b> in Blockchain technology where I am contributing to the design and development of the backend system for deploying Distributed Byzantine Fault Tolerant components on VMware Blockchain. Prior to VMware, I was a part of McAfee where I was contributing in McAfee Web Security project.
 </p>
 
 </p>
