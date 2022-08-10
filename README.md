@@ -3,13 +3,13 @@
 <p align="center">Welcome to my page! </br> I'm Tarunkumar Banda, a Software Developer from <b>Bangalore, India</b>.</p>
 
 <p>
-    I am 7+ years of experienced Software Engineer with a demonstrated history of working in the IT product based companies. I write Software to solve problems. I am always intrigued by the way software has influenced our lives.  ¯\ (ツ) /¯
+    I have 7+ years of experience in Software Engineering with a demonstrated history of working in the IT product based companies. Thanks for visiting my github profile.  ¯\ (ツ) /¯
 
-I’m passionate about building tools to help people save time and do more with their lives. 
+Coming to my interests, I’m really passionate about building tools to help people save time.
 I am proficient in #softwaredevelopment, #dsa, #linux, #cplusplus, #systemdesign, #distributedsystems and #blockchaintechnology and much more. 
-C, C++, System Design , Data Structures and Algorithms are parts of my expertise.
+C, C++, Python, System Design, Data Structures and Algorithms are parts of my expertise.
 
-Currently I am working with <b>VMware</b> in Blockchain technology where I am contributing to the design and development of the backend system for deploying Distributed Byzantine Fault Tolerant components on VMware Blockchain. Prior to VMware, I was a part of McAfee where I was contributing in McAfee Web Security project.
+Currently I am working with <b>VMware</b> in Blockchain technology as a individual contributer. I work on the design and development of backend systems of VMWare Blockchain distrubuted system. VMWare Blockchain works on Byzantine Fault Tolerant protocol. Prior to VMware, I was a part of McAfee where I was contributing in McAfee Web Security project.
 </p>
 
 </p>
