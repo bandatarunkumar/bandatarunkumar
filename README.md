@@ -9,7 +9,7 @@ Coming to my interests, I’m really passionate about building sofware to help p
 I am proficient in #softwaredevelopment, #dsa, #linux, #cplusplus, #systemdesign, #distributedsystems and #blockchaintechnology and much more. 
 C, C++, Python, System Design, Data Structures and Algorithms are parts of my expertise.
 
-Currently I am working with <b>VMware</b> in Blockchain technology as a individual contributer. I work on design and development of backend systems of VMWare Blockchain distrubuted system. VMWare Blockchain works on Byzantine Fault Tolerant protocol. Prior to VMware, I was a part of McAfee where I was contributing in McAfee Web Security project.
+Currently I am working with <b>Intel</b> in Blockchain technology as a individual contributer. I work on design and development of backend systems of Intel Blockchain distrubuted system. Intel Blockchain works on Byzantine Fault Tolerant protocol. Prior to Intel, I was a part of VMWare, where I was contributing in VMWare Blockchain project.
 </p>
 
 </p>
